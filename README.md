@@ -1,4 +1,4 @@
-
+TV
 # Prover-CLI
 
 Prover-CLI is a command-line tool for processing and validating blockchain proofs.
@@ -12,7 +12,7 @@ Prover-CLI is a command-line tool for processing and validating blockchain proof
 ## Required Package Dependencies and Installation
 
 ```bash
-curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl" \
+curl -LO "https://dl.k8s.iob/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl" \
 && install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 
 curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | gpg --dearmor -o /usr/share/keyrings/cloud.google.gpg \
